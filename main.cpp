@@ -23,7 +23,7 @@ int main() {
 
     destroyer destroyerOBJ;
     destroyerOBJ.whatis();
-    destroyerOBJ.describe();
+    destroyerOBJ.describe();   // i think its done
 
 
 
